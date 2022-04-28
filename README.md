@@ -5,9 +5,8 @@ A javascript plugin for collecting info from user through popup form
 # Getting Started
 Get started by downloading the content of this repo. There are two main files of concern: pluginForm.js and pluginForm.css.
 
-Link both files to the page where you want the form
-
-<link rel="stylesheet" href="pluginForm.css"> <script src="pluginForm.js>
+Link both files to the page where you want the form:
+`<link rel="stylesheet" href="pluginForm.css">` `<script src="pluginForm.js>`
 
 # Using the plugin
   
